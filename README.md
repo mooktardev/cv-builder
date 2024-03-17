@@ -18,7 +18,7 @@
 
 ## Demo live
 
-[CV Builder](https://mkt-cv-builder.vercel.app)
+[CV Builder](https://cv-builder-mk.vercel.app)
 
 ## Contact
 
